@@ -4,9 +4,9 @@
 
 ## Objetivo do Projeto
 
-  >> Treinar os conceitos iniciais de Flutter e Widgets Básicos;
-  >> Conhecer o conceito de responsividade e sua aplicação em uma aplicação Flutter;
-  >> Conhecer o conceito de adaptabilidade em uma aplicação cross-platform.
+  * Treinar os conceitos iniciais de Flutter e Widgets Básicos;
+  * Conhecer o conceito de responsividade e sua aplicação em uma aplicação Flutter;
+  * Conhecer o conceito de adaptabilidade em uma aplicação cross-platform.
 
 ## Fonte
 
